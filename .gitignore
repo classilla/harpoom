@@ -1,0 +1,11 @@
+doom1.wad
+BAK*
+*.o
+doomgeneri*
+harpoo*
+core
+build
+build/*
+.savegame
+.savegame/*
+
