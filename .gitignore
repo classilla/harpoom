@@ -1,7 +1,8 @@
 doom1.wad
 BAK*
+bak/*
 *.o
-doomgeneri*
+doomgeneric
 harpoo*
 core
 build
